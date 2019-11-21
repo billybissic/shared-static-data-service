@@ -2,6 +2,10 @@
 
 Shared Static Data Service provides access to static data required by several applications. Static does not strictly imply the data cannot be changed. This service offers a solution to allow CRUD actions to data offered through this service. 
 
+## Prerequisites
+* [Java (1.8+)](https://www.java.com/en/download/manual.jsp)
+* [Apache Maven](https://maven.apache.org/download.cgi)
+
 ## Pre-Build Tasks
 ##### Configurations
 
